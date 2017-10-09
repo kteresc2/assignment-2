@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-image: url("/images/model3-triplets.jpg");
+    background-image: url("../images/model3-triplets.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
